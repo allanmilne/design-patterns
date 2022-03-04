@@ -5,7 +5,9 @@ Design patterns are a reusable solution to a commonly occurring problem within t
 This repo is a reference to the design patterns that I have studied as I make my way through the
 book [Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/9781492077992/) written in PHP.
 
+## Behavioral Patters
 - [The Strategy Pattern](https://github.com/allanmilne/design-patterns/blob/main/strategy-pattern/README.md)
+- [The Observer Pattern](https://github.com/allanmilne/design-patterns/blob/main/observer-pattern/README.md)
 
 ---
 To open this project locally and run tests
