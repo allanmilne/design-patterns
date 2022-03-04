@@ -10,3 +10,4 @@ The subject and observers define the one-to-many relationship. We have *one* sub
 - Observers of any concrete type can participate in the pattern as long as they implement the Observer interface
 - Observers are loosely coupled in that the Subject knows *nothing* about them, other than that they implement the Observer interface
 - You can push or pull data from the Subject when using the pattern
+![The_Observer_Pattern-UML](https://user-images.githubusercontent.com/11261091/156762695-a0db01c1-5b60-4de3-9821-bd0904a54dee.png)
