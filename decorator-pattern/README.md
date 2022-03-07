@@ -17,7 +17,7 @@ the correct
 _type_, **not to inherit its behaviour**. The behaviour comes in through the composition of decorators with the base
 components along with any other decorators we instantiate.
 
--- uml diagram
+![The_Decorator_Pattern-UML_Class_Diagram](https://user-images.githubusercontent.com/11261091/157060796-c3b5ea46-73bc-4fd2-8ddb-baddccaa8bc2.png)
 
 Think of Decorator objects as wrappers
 
