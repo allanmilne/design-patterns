@@ -4,12 +4,9 @@
 Every time we instantiate a new object using the `new` operator we are programming to an implementation and not an
 interface.
 
-<aside>
-💡 When you see `new`, think “CONCRETE”
+<aside>💡 When you see `new`, think “CONCRETE”</aside>
 
-</aside>
-
-Tying our code to a concrete class can make it more fragile and less flexible.
+#### Tying our code to a concrete class can make it more fragile and less flexible.
 
 
 By coding to an interface we can insulate ourselves from many of the changes that might happen to a system throughout
