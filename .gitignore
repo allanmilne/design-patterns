@@ -1,1 +1,14 @@
 *.lock
+.DS_Store
+.idea/.gitignore
+.idea/design-patterns.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/php.xml
+.idea/vcs.xml
+factory-patterns/.idea/.gitignore
+factory-patterns/.idea/factory-patterns.iml
+factory-patterns/.idea/misc.xml
+factory-patterns/.idea/modules.xml
+factory-patterns/.idea/php.xml
+factory-patterns/.idea/vcs.xml
