@@ -16,6 +16,10 @@ book [Head First Design Patterns](https://www.oreilly.com/library/view/head-firs
 
 - [The Decorator Pattern](https://github.com/allanmilne/design-patterns/blob/main/decorator-pattern/README.md)
 
+### Creational
+
+- [The Factory Patterns](https://github.com/allanmilne/design-patterns/tree/main/factory-patterns)
+
 ---
 To open this project locally and run tests
 
