@@ -18,7 +18,7 @@ written to operate on products produced by the factory method. Only the subclass
 and deal with product creation. It is up to each concrete PizzaStore to define the behaviour for the `createPizza`
 method.
 
-— uml diagram
+![The_Factory_Method_Pattern-UML_Class_Diagram](https://user-images.githubusercontent.com/11261091/157405970-2a1f2750-bf00-4041-9f60-782ab3fab0a3.png)
 
 ### When to reach for a factory method
 
