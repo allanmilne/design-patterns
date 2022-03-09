@@ -9,12 +9,12 @@ book [Head First Design Patterns](https://www.oreilly.com/library/view/head-firs
 
 ### Behavioral
 
-- [The Strategy Pattern](https://github.com/allanmilne/design-patterns/blob/main/strategy-pattern/README.md)
-- [The Observer Pattern](https://github.com/allanmilne/design-patterns/blob/main/observer-pattern/README.md)
+- [The Strategy Pattern](https://github.com/allanmilne/design-patterns/tree/main/strategy-pattern)
+- [The Observer Pattern](https://github.com/allanmilne/design-patterns/tree/main/observer-pattern)
 
 ### Structural
 
-- [The Decorator Pattern](https://github.com/allanmilne/design-patterns/blob/main/decorator-pattern/README.md)
+- [The Decorator Pattern](https://github.com/allanmilne/design-patterns/tree/main/decorator-pattern)
 
 ### Creational
 
