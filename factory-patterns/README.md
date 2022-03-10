@@ -39,4 +39,4 @@ make changes to **many** parts of our codebase.
 
 - [The Simple Factory](https://github.com/allanmilne/design-patterns/tree/main/factory-patterns/simple-factory)
 - [The Factory Method Pattern](https://github.com/allanmilne/design-patterns/tree/main/factory-patterns/factory-method)
-- The Abstract Factory Method
+- [The Abstract Factory Method](https://github.com/allanmilne/design-patterns/tree/main/factory-patterns/abstract-factory)
