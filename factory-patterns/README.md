@@ -1,5 +1,22 @@
-# How CHANGE impacts our use of `new`
+# The Factory Patterns
 
+> Encapsulating what varies
+>
+
+When we have code that instantiates concrete classes, this can become an area of frequent change. Using Factories allows
+us to encapsulate this behaviour of instantiation.
+
+By encapsulating object creation code in one factory:
+
+- We avoid duplication in our code and provide one place to perform maintenance
+- Clients depend only upon interfaces rather than concrete classes required to instantiate objects
+- We are coding to abstractions and decoupling our client code from implementations
+
+This makes our code more flexible and extensible in the future, adhering to the “Program to interfaces, not
+implementations” principle.
+---
+
+## How CHANGE impacts our use of `new`
 
 Every time we instantiate a new object using the `new` operator we are programming to an implementation and not an
 interface.
@@ -7,7 +24,6 @@ interface.
 <aside>💡 When you see `new`, think “CONCRETE”</aside>
 
 #### Tying our code to a concrete class can make it more fragile and less flexible.
-
 
 By coding to an interface we can insulate ourselves from many of the changes that might happen to a system throughout
 its lifespan.
